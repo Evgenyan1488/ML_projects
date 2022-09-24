@@ -126,7 +126,3 @@ print("Accuracy: ", accuracy)
 import matplotlib.pyplot as plt
 plt.plot(loss_arr)
 plt.show()
-
-#pred_class = np.argmax(probs)
-class_names = ['zxc', 'norm', 'terpila']
-#print(class_names[pred_class])
